@@ -8,7 +8,7 @@ Implement c++ API that will convert an international string to ASCI via http://w
 
 
 == Bugs/Improvements ==
-Creating new contact then canceling should revert to show contacts list (or to previous window if easy)
+Creating new contact then canceling should revert to show contacts list (or to previous window if easy) (keppy)
 Ask for confirmation on contact deletion actions. Maybe add GUI element as another way to delete contacts from contact list.
 Prevent duplicate contacts (I think this means don't allow multiple aliases to map to same keyhotee id, but confirm with DanL)
 The TO field shows the address of your account rather than the proper identity. (DanN)
